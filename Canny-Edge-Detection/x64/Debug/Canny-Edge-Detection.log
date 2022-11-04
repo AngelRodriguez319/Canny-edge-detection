@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\angab\OneDrive\Escritorio\Canny-Edge-Detection\Canny-Edge-Detection\Source.cpp(38,40): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\angab\OneDrive\Escritorio\Canny-Edge-Detection\Canny-Edge-Detection\Source.cpp(69,20): warning C4244: '/=': conversión de 'double' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\angab\OneDrive\Escritorio\Canny-Edge-Detection\Canny-Edge-Detection\Source.cpp(110,29): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\angab\OneDrive\Escritorio\Canny-Edge-Detection\Canny-Edge-Detection\Source.cpp(111,34): warning C4244: '=': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\angab\OneDrive\Escritorio\Canny-Edge-Detection\Canny-Edge-Detection\Source.cpp(161,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\angab\OneDrive\Escritorio\Canny-Edge-Detection\Canny-Edge-Detection\Source.cpp(222,11): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  Canny-Edge-Detection.vcxproj -> C:\Users\angab\OneDrive\Escritorio\Canny-Edge-Detection\x64\Debug\Canny-Edge-Detection.exe
